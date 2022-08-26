@@ -15,7 +15,7 @@ Actualmente estoy de lleno trabajando con Python, pero en mis tiempos libres me 
 
 [![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/es-es/desktop/)
+[![DASH](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/es-es/desktop/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 
 
