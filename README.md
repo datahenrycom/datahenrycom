@@ -1,7 +1,7 @@
 
 # 👨‍🚀 Hola
 
-Soy Henry Cerpa Marquez, ingeniero industrial y científico de datos, apasionado por la tecnología, la inteligencia artificial y la música.
+Soy Henry Cerpa Marquez, ingeniero industrial y científico de datos, apasionado por la inteligencia artificial y la música.
 
 Trabajo actualmente en el equipo de analítica de una compañía colombiana del sector finanzas como científico de datos, desarrollando e implementando proyectos de análisis descriptivo, predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN, enfocados a la solución de problemas del core de negocio.
 
