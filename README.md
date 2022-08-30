@@ -7,9 +7,9 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 
 # 💼 ¿Qué puedes encontrar en mi repositorio?
 
-En este momento lo estoy actualizando, pero tiene como propósito dar a conocer en forma de tutorial proyectos y códigos que pueden ser útiles tanto si está aprendiendo o si los quiere implementar en su empresa.
+Encontrarás proyectos y códigos que te pueden ser de utilidad tanto si estás aprendiendo como en tu entorno laboral.
 
-Actualmente estoy de lleno trabajando con Python, pero en mis tiempos libres me gusta implementar mini proyectos de electrónica usando Arduino, así que también subiré estos.
+Actualmente, me enestoy de lleno trabajando con Python, pero en mis tiempos libres me gusta implementar mini proyectos de electrónica usando Arduino, así que también subiré estos.
 
 # 🛠️ Skills:
 
