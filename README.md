@@ -9,7 +9,7 @@ Trabajo actualmente en el equipo de analítica de una compañía colombiana del 
 
 Encontrarás proyectos y códigos que te pueden ser de utilidad tanto si estás aprendiendo como en tu entorno laboral.
 
-Actualmente, me enestoy de lleno trabajando con Python, pero en mis tiempos libres me gusta implementar mini proyectos de electrónica usando Arduino, así que también subiré estos.
+Actualmente, me dedico eestoy de lleno trabajando con Python, pero en mis tiempos libres me gusta implementar mini proyectos de electrónica usando Arduino, así que también subiré estos.
 
 # 🛠️ Skills:
 
