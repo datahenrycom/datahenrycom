@@ -26,4 +26,4 @@ Una historia laboral aplicando librerías en Python para: limpieza y transformac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@henrycerpam-8000ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/henrycerpam)
 <br>
 <br>
-[![Webpage](https://img.shields.io/badge/WEBPAGE-www.henrycerpam.com-8000ff?style=for-the-badge&logo=Chrome&logoColor=white&labelColor=0A66C2)](https://www.henrycerpam.com)
+[![Webpage](https://img.shields.io/badge/WEBPAGE-www.henrycerpam.com-8000ff?style=for-the-badge&logo=chrome&logoColor=white&labelColor=0A66C2)](https://www.henrycerpam.com)
