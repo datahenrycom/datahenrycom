@@ -8,7 +8,7 @@
 
 Una historia laboral aplicando librerías en Python para: limpieza y transformación de datos; análisis descriptivo, predictivo y prescriptivo; simulación numérica y modelado estadístico utilizando las técnicas de machine learning, deep Learninig y PLN.
 
-### 🛠️ Skills
+### 🛠️ Habilidades
 
 [![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)](https://www.mysql.com/)
