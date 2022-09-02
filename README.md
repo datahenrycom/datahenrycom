@@ -6,13 +6,7 @@
 - Experto configurando visualizaciones en Dash. 
 - Apasionado por la inteligencia artificial.
 
-Una historia laboral en limpieza y transformación de datos, análisis descriptivo, tendencias, simulación numérica y modelado estadístico; aplicando librerías en Python. predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN.
-
-# 💼 ¿Qué puedes encontrar en mi repositorio?
-
-Encontrarás proyectos y códigos que te pueden ser de utilidad tanto si estás aprendiendo como en tu entorno laboral.
-
-Actualmente, me dedico eestoy de lleno trabajando con Python, pero en mis tiempos libres me gusta implementar mini proyectos de electrónica usando Arduino, así que también subiré estos.
+Una historia laboral aplicando librerías en Python para: limpieza y transformación de datos; análisis descriptivo, predictivo y prescriptivo; simulación numérica y modelado estadístico utilizando las técnicas de machine learning, deep Learninig y PLN.
 
 # 🛠️ Skills:
 
@@ -26,6 +20,11 @@ Actualmente, me dedico eestoy de lleno trabajando con Python, pero en mis tiempo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
+# 💼 ¿Qué puedes encontrar en mi repositorio?
+
+Encontrarás proyectos y códigos que te pueden ser de utilidad tanto si estás aprendiendo como en tu entorno laboral.
+
+Actualmente, me dedico eestoy de lleno trabajando con Python, pero en mis tiempos libres me gusta implementar mini proyectos de electrónica usando Arduino, así que también subiré estos.
 
 # 💬 Contáctame en:
 
