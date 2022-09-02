@@ -8,7 +8,7 @@
 
 Una historia laboral aplicando librerías en Python para: limpieza y transformación de datos; análisis descriptivo, predictivo y prescriptivo; simulación numérica y modelado estadístico utilizando las técnicas de machine learning, deep Learninig y PLN.
 
-### 🛠️ Habilidades
+## 🛠️ Habilidades
 
 [![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-ffff00?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)](https://es.wikipedia.org/wiki/SQL)
@@ -24,7 +24,7 @@ Una historia laboral aplicando librerías en Python para: limpieza y transformac
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-ff0000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
 
-### 💼 Contacto
+## 💼 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henrycerpam-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/henrycerpam)
 <br>
