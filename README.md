@@ -2,11 +2,11 @@
 # 👨🏽‍💼 Henry Cerpa Márquez
 ### Cientifico de Datos | Ingeniero Industrial
 
-Ingeniero Industrial. Líder de proyectos en Ciencia de Datos. Experto en configurar visualizaciones Dash. Una historia laboral en limpieza y transformación de datos, análisis, tendencias, simulación numérica y modelado estadístico; aplicando librerías en Python. Con experiencia en Auditoria Digital Forense. Altamente organizado, diligente y alineado a los procedimientos de la empresa.
+- Líder en proyectos enmarcados en la Ciencia de Datos. 
+- Experto configurando visualizaciones en Dash. 
+- Apasionado por la inteligencia artificial.
 
-, apasionado por la inteligencia artificial y la música.
-
-Trabajo actualmente en el equipo de analítica de una compañía colombiana del sector finanzas como científico de datos, desarrollando e implementando proyectos de análisis descriptivo, predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN, enfocados a la solución de problemas del core de negocio.
+Una historia laboral en limpieza y transformación de datos, análisis descriptivo, tendencias, simulación numérica y modelado estadístico; aplicando librerías en Python. predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN, enfocados a la solución de problemas del core de negocio.
 
 # 💼 ¿Qué puedes encontrar en mi repositorio?
 
