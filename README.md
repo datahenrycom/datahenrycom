@@ -20,13 +20,11 @@ Una historia laboral aplicando librerías en Python para: limpieza y transformac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-### 💼 Repositorio
+[![Repositorio](https://img.shields.io/badge/Repositorio-47A141?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
 
 Encontrarás notebooks y códigos que pueden ser de utilidad tanto si estás aprendiendo como para tu entorno laboral.
 
-[![Repositorio](https://img.shields.io/badge/Repositorio-47A141?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
-
-### 💬 Contacto
+### 💼 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henrycerpam-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/henrycerpam)
 
