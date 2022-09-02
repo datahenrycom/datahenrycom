@@ -24,8 +24,6 @@ Una historia laboral aplicando librerías en Python para: limpieza y transformac
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-ff0000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
 
-Encontrarás notebooks y códigos que pueden ser de utilidad tanto si estás aprendiendo como para tu entorno laboral.
-
 ### 💼 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henrycerpam-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/henrycerpam)
