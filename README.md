@@ -29,4 +29,6 @@ Encontrarás notebooks y códigos que pueden ser de utilidad tanto si estás apr
 ### 💼 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henrycerpam-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/henrycerpam)
+[![Web](https://img.shields.io/badge/WEB-101010?style=for-the-badge&logo=WEB&logoColor=white&labelColor=0A66C2)](https://www.henrycerpam.com)
+[![Email](https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=Email&logoColor=white&labelColor=0A66C2)](mailto: info@monkum.com)
 
