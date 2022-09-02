@@ -6,7 +6,7 @@
 - Experto configurando visualizaciones en Dash. 
 - Apasionado por la inteligencia artificial.
 
-Una historia laboral en limpieza y transformación de datos, análisis descriptivo, tendencias, simulación numérica y modelado estadístico; aplicando librerías en Python. predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN, enfocados a la solución de problemas del core de negocio.
+Una historia laboral en limpieza y transformación de datos, análisis descriptivo, tendencias, simulación numérica y modelado estadístico; aplicando librerías en Python. predictivo y prescriptivo, usando técnicas como Machine Learning, Deep Learninig y PLN.
 
 # 💼 ¿Qué puedes encontrar en mi repositorio?
 
