@@ -1,5 +1,6 @@
 
 # 👨‍🚀 Henry Cerpa Márquez
+## Cientifico de Datos | Ingeniero Industrial
 
 Ingeniero Industrial. Líder de proyectos en Ciencia de Datos. Experto en configurar visualizaciones Dash. Una historia laboral en limpieza y transformación de datos, análisis, tendencias, simulación numérica y modelado estadístico; aplicando librerías en Python. Con experiencia en Auditoria Digital Forense. Altamente organizado, diligente y alineado a los procedimientos de la empresa.
 
