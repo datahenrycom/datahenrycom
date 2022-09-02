@@ -13,7 +13,7 @@ Una historia laboral aplicando librerías en Python para: limpieza y transformac
 [![Python](https://img.shields.io/badge/Python-47A141?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-999999?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)](https://es.wikipedia.org/wiki/SQL)
 [![DASH](https://img.shields.io/badge/DASH-00979D?style=for-the-badge&logo=DASH&logoColor=white&labelColor=101010)](https://dash.plotly.com/)
-[![Scikit Learn](https://img.shields.io/badge/Scikit Learn-00979D?style=for-the-badge&logo=Scikit Learn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/)
+[![ScikitLearn](https://img.shields.io/badge/ScikitLearn-00979D?style=for-the-badge&logo=ScikitLearn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/)
 
 
 <a href="https://github.com/henrycerpam/henrycerpam">
