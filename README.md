@@ -1,5 +1,5 @@
 
-Henry Cerpa Márquez (@bitodato)
+# Henry Cerpa Márquez (@bitodato)
 ### 👨🏽‍💼 Data Science Specialist | Statistical Data Analysis
 
 - Graduated in industrial engineering. 
