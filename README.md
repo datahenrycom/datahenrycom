@@ -1,5 +1,5 @@
 
-# Henry Cerpa Márquez (@bitodato)
+# Henry Cerpa Márquez (alias: BITO)
 ### 👨🏽‍💼 Data Science Specialist | Statistical Data Analysis
 
 - Graduated in industrial engineering. 
