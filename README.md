@@ -1,6 +1,6 @@
 
 # (Bito) Henry Cerpa Márquez
-### 👨🏽‍💼 Data Science Specialist | Statistical Data Analysis
+### 👨🏽‍💼 Data Science Specialist
 
 - Graduated in industrial engineering. 
 - Dash framework expert. 
