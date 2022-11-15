@@ -19,7 +19,7 @@
 
 
 <a href="https://github.com/bitodato/bitodato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitodato&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ## 💼 Contact
