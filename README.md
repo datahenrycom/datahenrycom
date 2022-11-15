@@ -18,7 +18,7 @@
 [![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
 
 
-<a href="https://github.com/henrycerpam/henrycerpam">
+<a href="https://github.com/bitodato/bitodato">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
