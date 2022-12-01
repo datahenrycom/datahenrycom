@@ -1,6 +1,6 @@
 
 # Henry Cerpa Márquez
-### 👨🏽‍💼 Data Science Specialist
+### 👨🏽‍💼 Data Science Consultant
 
 - Graduated in industrial engineering. 
 - Dash framework expert. 
