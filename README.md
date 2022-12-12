@@ -2,11 +2,11 @@
 # Henry Cerpa Márquez
 ### 👨🏽‍💼 Data Science Consultant
 
-- Graduated in industrial engineering. 
+- Graduated as Industrial Engineer. 
 - Dash framework expert. 
 - Job experience of 6 years in data wrangling, statistical analysis and visualization. 
 - Knowledge in numerical simulation with different techniques using python libraries. 
-- Familiarity with Power BI, SQL and agile methodologies like Scrum. 
+- Familiarity with Tableu, Power BI, SQL and agile methodologies like Scrum. 
 - Passionate about artificial intelligence developments
 
 ## 🛠️ Skills
